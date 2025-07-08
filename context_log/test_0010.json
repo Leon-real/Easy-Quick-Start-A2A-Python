@@ -1,0 +1,41 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "현재 시간에 먹기 좋은 한국 음식 추천해줘.",
+      "timestamp": "bea000af"
+    },
+    {
+      "role": "user",
+      "content": "현재 시간 알려줘.",
+      "timestamp": "a91d9765"
+    },
+    {
+      "role": "user",
+      "content": "현재 시간 알려줘.",
+      "timestamp": "95c36a17"
+    },
+    {
+      "role": "assistant",
+      "content": "CurrentTimeAgent: 현재 시간은 2025-07-08 10:02:14입니다.",
+      "timestamp": "7e87401d"
+    },
+    {
+      "role": "user",
+      "content": "현재 사ㅣㄱ 시간에 먹기 좋은 한국 음식 추천해줘.",
+      "timestamp": "18618efc"
+    }
+  ],
+  "agent_results": {
+    "CurrentTimeAgent": [
+      {
+        "result": "CurrentTimeAgent: 현재 시간은 2025-07-08 10:02:14입니다. ",
+        "step": 1
+      },
+      {
+        "result": "CurrentTimeAgent: 현재 시간은 2025-07-08 10:02:33입니다. ",
+        "step": 2
+      }
+    ]
+  }
+}

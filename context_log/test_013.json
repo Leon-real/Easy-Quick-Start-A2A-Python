@@ -1,0 +1,90 @@
+{
+  "conversations": [
+    {
+      "role": "user",
+      "content": "현재 에이전트 리스트와 각각의 에이전트의 정보들을 쫙 다 보여주세요.",
+      "timestamp": "96b805ca"
+    },
+    {
+      "role": "user",
+      "content": "현재 에이전트 리스트와 각각의 에이전트의 정보들을 쫙 다 보여주세요.",
+      "timestamp": "d4ab85d6"
+    },
+    {
+      "role": "assistant",
+      "content": "현재 사용 가능한 에이전트 목록은 다음과 같습니다:\n\n1. **KoreaAgent**\n   - Description: [정보 제공 없음]\n   - Provider: N/A\n   - Input Modes: [정보 제공 없음]\n   - Output Modes: [정보 제공 없음]\n   - Protocol: [정보 제공 없음]\n   - Skills: [정보 제공 없음]\n   - URL: [정보 제공 없음]\n\n2. **CurrentTimeAgent**\n   - Description: [정보 제공 없음]\n   - Provider: N/A\n   - Input Modes: [정보 제공 없음]\n   - Output Modes: [정보 제공 없음]\n   - Protocol: [정보 제공 없음]\n   - Skills: [정보 제공 없음]\n   - URL: [정보 제공 없음]",
+      "timestamp": "686de4ab"
+    },
+    {
+      "role": "user",
+      "content": "현재 에이전트 리스트와 각각의 에이전트의 정보들을 쫙 다 보여주세요.",
+      "timestamp": "eb9f0739"
+    },
+    {
+      "role": "assistant",
+      "content": "현재 사용 가능한 에이전트 리스트는 다음과 같습니다:\n\n1. **KoreaAgent**: 한국 관련 질문이나 정보 제공\n2. **CurrentTimeAgent**: 현재 시간 제공",
+      "timestamp": "157247e2"
+    },
+    {
+      "role": "user",
+      "content": "안녕",
+      "timestamp": "3c0974ff"
+    },
+    {
+      "role": "assistant",
+      "content": "안녕하세요! 어떻게 도와드릴까요?",
+      "timestamp": "2b1ad7cc"
+    },
+    {
+      "role": "user",
+      "content": "에이전트 리스트보여줘",
+      "timestamp": "ce9de1d7"
+    },
+    {
+      "role": "assistant",
+      "content": "여기 현재 사용 가능한 에이전트 목록입니다:\n\n1. KoreaAgent\n2. CurrentTimeAgent\n\n필요한 정보가 있다면 말씀해 주세요. 해당 에이전트를 통해 도움을 드릴 수 있습니다.",
+      "timestamp": "0e78ceb2"
+    },
+    {
+      "role": "user",
+      "content": "이전에 나눴던 대화 기록 전부 불러와주ㅗㅓ.",
+      "timestamp": "4626756a"
+    },
+    {
+      "role": "assistant",
+      "content": "여기 이전에 나눴던 대화 기록입니다:\n\n- 사용자: 현재 에이전트 리스트와 각각의 에이전트의 정보들을 쫙 다 보여주세요.\n- 사용자: 현재 에이전트 리스트와 각각의 에이전트의 정보들을 쫙 다 보여주세요.\n- 어시스턴트: 현재 사용 가능한 에이전트 목록은 다음과 같습니다:\n  1. **KoreaAgent**\n     - Description: [정보 제공 없음]\n     - Provider: N/A\n     - Input Modes: [정보 제공 없음]\n     - Output Modes: [정보 제공 없음]\n     - Protocol: [정보 제공 없음]\n     - Skills: [정보 제공 없음]\n     - URL: [정보 제공 없음]\n  2. **CurrentTimeAgent**\n     - Description: [정보 제공 없음]\n     - Provider: N/A\n     - Input Modes: [정보 제공 없음]\n     - Output Modes: [정보 제공 없음]\n     - Protocol: [정보 제공 없음]\n     - Skills: [정보 제공 없음]\n     - URL: [정보 제공 없음]\n- 사용자: 현재 에이전트 리스트와 각각의 에이전트의 정보들을 쫙 다 보여주세요.\n- 어시스턴트: 현재 사용 가능한 에이전트 리스트는 다음과 같습니다:\n  1. **KoreaAgent**: 한국 관련 질문이나 정보 제공\n  2. **CurrentTimeAgent**: 현재 시간 제공\n- 사용자: 안녕\n- 어시스턴트: 안녕하세요! 어떻게 도와드릴까요?\n- 사용자: 에이전트 리스트보여줘\n- 어시스턴트: 여기 현재 사용 가능한 에이전트 목록입니다:\n  1. KoreaAgent\n  2. CurrentTimeAgent\n  필요한 정보가 있다면 말씀해 주세요. 해당 에이전트를 통해 도움을 드릴 수 있습니다.\n- 사용자: 이전에 나눴던 대화 기록 전부 불러와주ㅗㅓ.\n\n더 궁금한 것이 있으면 알려주세요!",
+      "timestamp": "f6934848"
+    },
+    {
+      "role": "user",
+      "content": "현재 사용 가능한 에이전트 목록 알려주세요.",
+      "timestamp": "5ee862e5"
+    },
+    {
+      "role": "assistant",
+      "content": "현재 사용 가능한 에이전트 목록은 다음과 같습니다:\n\n1. **KoreaAgent**: 한국어 관련 질문이나 한국 문화와 관련된 질문을 처리합니다.\n2. **CurrentTimeAgent**: 현재 시간을 제공합니다.",
+      "timestamp": "fdf2d316"
+    },
+    {
+      "role": "user",
+      "content": "현재 에이전트 리스트와 각각의 에이전트의 정보들을 쫙 다 보여주세요.",
+      "timestamp": "7a2e0390"
+    },
+    {
+      "role": "assistant",
+      "content": "현재 사용 가능한 에이전트와 그 정보는 다음과 같습니다:\n\n1. **KoreaAgent** (v1.0.0)\n   - 📜 설명: 이 에이전트는 한국어로 된 질문이나 한국 문화와 관련된 질문을 처리합니다.\n   - 🌐 URL: [http://localhost:10000/](http://localhost:10000/)\n   - 📋 프로토콜: 0.2.5\n   - 📥 입력 모드: text, text/plain\n   - 📤 출력 모드: text, text/plain\n   - ⚡ 기능: 스트리밍 불가\n   - 🛠️ 기술: \n     - 이름: Korea Assistant\n     - 설명: 한국어로 된 질문이나 한국 문화와 관련된 질문을 처리합니다.\n     - 예시: 안녕하세요?, 한국 문화에 대해 알려주세요.\n     - 태그: korean, language\n\n2. **CurrentTimeAgent** (v1.0.0)\n   - 📜 설명: 이 에이전트는 현재 시간을 제공합니다.\n   - 🌐 URL: [http://localhost:10001/](http://localhost:10001/)\n   - 📋 프로토콜: 0.2.5\n   - 📥 입력 모드: text, text/plain\n   - 📤 출력 모드: text, text/plain\n   - ⚡ 기능: 스트리밍 불가\n   - 🛠️ 기술: \n     - 이름: Current Time Assistant\n     - 설명: 현재 시간을 제공합니다.\n     - 예시: 지금 몇 시야?, 현재 시간 알려줘, 몇 시인지 말해줘\n     - 태그: time, clock, datetime",
+      "timestamp": "9dedcc47"
+    },
+    {
+      "role": "user",
+      "content": "현재 사용 가능한 에이전트 목록 알려줘.",
+      "timestamp": "dc7d2901"
+    },
+    {
+      "role": "assistant",
+      "content": "현재 사용 가능한 에이전트 목록은 다음과 같습니다:\n\n1. **KoreaAgent**: 한국어로 된 질문이나 한국 문화와 관련된 질의를 처리합니다.\n2. **CurrentTimeAgent**: 현재 시간을 제공합니다.",
+      "timestamp": "f943d147"
+    }
+  ],
+  "agent_results": {}
+}

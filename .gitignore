@@ -1,0 +1,99 @@
+# =============================
+# 운영체제 관련
+# =============================
+.DS_Store         # macOS
+**/.DS_Store
+Thumbs.db         # Windows
+*.DS_Store
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# =============================
+# VSCode  설정
+# =============================
+.vscode/          # 개인 설정 폴더
+
+# =============================
+# Python 관련
+# =============================
+__pycache__/        # Python bytecode 디렉토리
+**/__pycache__/        # Python bytecode 디렉토리
+*.py[cod]           # 컴파일된 파이썬 파일 (*.pyc, *.pyo, *.pyd)
+*.pyo
+
+# pycache 내부 모든 파일 확실하게 무시
+**/__pycache__/
+**/*.pyc
+
+# 가상 환경
+venv/
+env/
+test/
+.venv/
+.env/
+.test/
+ENV/
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# =============================
+# 로그, 임시 파일, 기타
+# =============================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+
+# =============================
+# 파이썬 패키징 (선택사항)
+# =============================
+*.egg
+*.egg-info/
+dist/
+build/
+*.tar.gz
+
+# =============================
+# 환경 변수 파일 (보안)
+# =============================
+.env
+.env.*
+
+# =============================
+# 테스트 관련
+# =============================
+htmlcov/
+coverage.xml
+.tox/
+.pytest_cache/
+
+# 기타 시스템 파일
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# pip 관련 임시 파일
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE 설정
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 로그, DB, PID
+*.pid
+*.db
+*.sqlite3
+logs/
+logs/**
+
+# Streamlit (선택사항)
+.streamlit/
+__streams__/
