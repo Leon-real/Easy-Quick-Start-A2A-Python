@@ -72,6 +72,11 @@ coverage.xml
 .tox/
 .pytest_cache/
 
+# =============================
+# 데이터 관련
+# =============================
+context_log/
+
 # 기타 시스템 파일
 .Spotlight-V100
 .Trashes
