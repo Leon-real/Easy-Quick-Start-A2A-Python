@@ -1,4 +1,4 @@
-# 🧠 Easy A2A Sample Code
+# 🧠 Easy A2A Sample Code 
 
 A sample project based on the A2A (Agent-to-Agent) protocol.
 This project features a Host Agent that collaborates with Remote Agents to process user requests. You can easily test the structure via CLI, and both the Host Agent and Remote Agents are simple to customize and extend for your own applications.
